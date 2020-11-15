@@ -16,12 +16,12 @@ void main() {
       backgroundColor: Colors.white70,
       appBar: AppBar(
         title: Text('I Am Rich'),
-        backgroundColor: Colors.indigo,
+        backgroundColor: Colors.blue,
       ),
       body: Center(
         child: Image(
           image: NetworkImage(
-              'https://i.pinimg.com/originals/cc/a5/ee/cca5ee872a72615ad40a5469dae0421c.jpg'),
+              'https://images.vexels.com/media/users/3/143976/isolated/preview/209ba9468bd81a4f2adb73211d63e626-smiling-face-emoji-by-vexels.png'),
         ),
       ),
     ),
